@@ -33,6 +33,7 @@ A list of useful links isn't exactly a unique idea - and I bookmarked some of th
 * [firstsiteguide](https://firstsiteguide.com/tools/) (Used to be called thetoolbox.cc, I don't know if it's the same thing.)
 * [OpenGL Bookmarks](https://forum.facepunch.com/f/nerds/oydd/Programming-WAYWO-38/248/#postjinaf)
 * [This exact thing on Facepunch six years ago.](https://forum.facepunch.com/f/nerds/oxak/Useful-maths-snippets-blogs-and-all-that-jazz/1/)
+* [Vlambeer toolkit & link repository](http://vlambeer.com/toolkit/)
 
 ### Book Lists
 
